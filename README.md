@@ -1,7 +1,14 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deril1709&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deril1709&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!--
-**deril1709/deril1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**richardenrico/richardenrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
